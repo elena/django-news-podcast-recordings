@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="131229_full_data" version="1.3.0" audacityversion="2.0.5" sel0="717.2617245963" sel1="717.2617245963" vpos="0" h="753.9856189088" zoom="17.0188922417" rate="44100.0">
+	<tags>
+		<tag name="GENRE" value="podcast, technology, programming, python"/>
+		<tag name="ARTIST" value="Django News Podcast with Elena Williams"/>
+		<tag name="TITLE" value="30-Dec-2013 Django News Podcast"/>
+		<tag name="ALBUM" value="Django News Podcast 2013"/>
+		<tag name="YEAR" value="2013"/>
+	</tags>
+	<import filename="1 Intro.ogg" offset="0.00000000" mute="0" solo="0" height="136" minimized="0" gain="1.0" pan="0.0"/>
+	<import filename="Audio Track.ogg" offset="-0.13000000" mute="0" solo="0" height="150" minimized="0" gain="2.238721" pan="0.0"/>
+	<import filename="Audio Track-2.ogg" offset="719.59239764" mute="0" solo="0" height="150" minimized="0" gain="1.0" pan="0.0"/>
+	<import filename="Audio Track-3.ogg" offset="143.97064407" mute="0" solo="0" height="150" minimized="0" gain="1.0" pan="0.0"/>
+	<import filename="Audio Track-4.ogg" offset="175.79214331" mute="1" solo="0" height="150" minimized="0" gain="1.0" pan="0.0"/>
+	<import filename="Audio Track-5.ogg" offset="1568.50911122" mute="0" solo="0" height="150" minimized="0" gain="1.0" pan="0.0"/>
+	<import filename="Audio Track-6.ogg" offset="1569.00855618" mute="0" solo="0" height="150" minimized="0" gain="1.0" pan="0.0"/>
+	<import filename="Audio Track-7.ogg" offset="1568.87855618" mute="0" solo="0" height="150" minimized="0" gain="1.0" pan="0.0"/>
+	<import filename="Audio Track-8.ogg" offset="1568.37911122" mute="0" solo="0" height="150" minimized="0" gain="1.0" pan="0.0"/>
+	<import filename="Audio Track-9.ogg" offset="1584.94672632" mute="0" solo="0" height="150" minimized="0" gain="1.0" pan="0.0"/>
+</project>
